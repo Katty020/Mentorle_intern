@@ -65,10 +65,7 @@ Set `showGithubProfile` to true or false to show Contact Profile using GitHub, d
 
 **Warning:** Treat your tokens like passwords and keep them secret. When working with the API, use tokens as environment variables instead of hardcoding them into your programs.
 
-Note: Open Source Projects section only show pinned items of your GitHub.
-If you are seeing something as shown below, follow these [instructions](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile).
-
-![ERROR](https://i.imgur.com/Hj6mu1K.png)
+[ERROR](https://i.imgur.com/Hj6mu1K.png)
 
 If the above solution still doesn't work, visit the [wiki page](https://github.com/mentorle/wiki/Github-Setup-For-Open-Source-Projects).
 
