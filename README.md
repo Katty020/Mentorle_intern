@@ -44,7 +44,7 @@ npm install
 npm start
 ```
 
-## Linking Portfolio to GitHub
+## Linking Mentorle to GitHub
 
 Generate a classic GitHub personal access token following these [instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) (make sure you don't select any scope just generate a simple token). If you are using [GitHub Actions](#configuring-github-actions-recommended) to deploy your you can skip this section.
 
@@ -66,10 +66,6 @@ Set `showGithubProfile` to true or false to show Contact Profile using GitHub, d
 **Warning:** Treat your tokens like passwords and keep them secret. When working with the API, use tokens as environment variables instead of hardcoding them into your programs.
 
 [ERROR](https://i.imgur.com/Hj6mu1K.png)
-
-If the above solution still doesn't work, visit the [wiki page](https://github.com/mentorle/wiki/Github-Setup-For-Open-Source-Projects).
-
-## Linking blogs section to Medium
 
 Optionally, you can link the blogs section to your medium user account:
 
