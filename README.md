@@ -14,14 +14,14 @@ git@2.17.1 or higher
 ### Docker Commands
 
 ```
-1) BUILD IMAGE : docker build -t developerfolio:latest .
-2) RUN IMAGE: docker run -t -p 3000:3000 developerfolio:latest
+1) BUILD IMAGE : docker build -t mentorle:latest .
+2) RUN IMAGE: docker run -t -p 3000:3000 mentorle:latest
 ```
 
 
 ## How To Use 
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run mentorle:
 
 ```bash
 # Clone this repository
