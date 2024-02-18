@@ -22,9 +22,6 @@ const greeting = {
   subTitle: emoji(
     "Unlock Your IT Potential with Asia's Largest Mentor Network. Find Your Perfect IT Mentor or Mentee Today. Boost Your IT Career with Proven Mentorship."
   ),
-  
-  // resumeLink:
-  //   "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
