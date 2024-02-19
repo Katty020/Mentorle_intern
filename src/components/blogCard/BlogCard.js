@@ -1,5 +1,6 @@
 import React from "react";
 import "./BlogCard.scss";
+//contains the card structure of all the cards used in the wbsites
 
 export default function BlogCard({blog, isDark}) {
   function openUrlInNewTab(url, name) {
