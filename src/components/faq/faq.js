@@ -28,6 +28,12 @@ const faqsList = [
     answerText:
       'You can ask your doubts in the discussions section and course mentor will answer them. You can also see the doubts asked by other students.',
   },
+   {
+    id: 4,
+    questionText: 'How will my doubts be cleared? What is the mechanism?',
+    answerText:
+      'You can ask your doubts in the discussions section and course mentor will answer them. You can also see the doubts asked by other students.',
+  },
 ]
 
 const App = () => <Faqs faqsList={faqsList} />
