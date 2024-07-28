@@ -59,7 +59,7 @@ export const DiscussForm = (actions) => {
     <section className="flex flex-col container mx-auto mt-10 justify-center">
 
       <Fade direction="down" triggerOnce>
-        <h1 className="text-5xl text-theme-blue text-center font-bold">Lets Discuss</h1>
+        <h1 className="text-5xl text-theme-black text-center font-bold">Lets Discuss</h1>
       </Fade>
 
       <Fade direction="up" triggerOnce>

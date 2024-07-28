@@ -15,7 +15,7 @@ export default function BrandIcon() {
     >
       <p className="text-theme-blue text-4xl font-medium ">
         Racx
-        <span className="text-theme-purple">studio</span>
+        <span className="text-theme-purple">studio hai</span>
       </p>
     </Button>
   );
