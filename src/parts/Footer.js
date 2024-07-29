@@ -14,8 +14,9 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
           <div className="w-1/3 flex-col ml-16 mr-8">
             <BrandIcon />
-            <p className="w-full text-lg text-gray-400 font-light">
-              Growing Your Business
+            <p className="w-full text-justify text-gray-400 font-light">
+              <br />
+                Growing Your Business
               {' '}
               <br />
               Is Our Calling
@@ -26,7 +27,7 @@ export default function Footer() {
               Office
             </h1>
             <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
+              hr@mentorle.
             </p>
             <p className="text-lg text-gray-400 font-light">
               Klaten, Central Java, Indonesia
@@ -49,16 +50,9 @@ export default function Footer() {
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - Racxstudio
+            Copyright 2024 - All rights reserved - Mentorle
           </p>
-          <div className="flex-row">
-            <p className="inline-block text-lg text-gray-400 font-light">
-              Made with &#x2764; by&nbsp;
-            </p>
-            <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="text-lg text-theme-purple font-light" isExternal>
-              Racmat Hafidz Fadli
-            </Button>
-          </div>
+          
         </div>
       </div>
     </div>

@@ -13,9 +13,10 @@ export default function BrandIcon() {
       type="link"
       href="/"
     >
-      <p className="text-theme-blue text-4xl font-medium ">
-        Racx
-        <span className="text-theme-purple">studio hai</span>
+      <p className="text-theme-blue text-3xl font-medium ">
+        {/* <img src='/logo,svg'/> */}
+      〈MENTORLE〉
+        {/* <span className="text-theme-purple">studio hai</span> */}
       </p>
     </Button>
   );
