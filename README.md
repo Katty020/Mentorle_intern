@@ -1,7 +1,4 @@
 
-### About
-A software house profile website built with ReactJS and TailwindCSS :computer:
-
 ### Tech Stack
 - [**ReactJS**](https://github.com/facebook/create-react-app)
 - [**PostCSS**](https://postcss.org/)
