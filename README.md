@@ -1,37 +1,24 @@
+# Mentorle Corporate Website
 
-### Tech Stack
-- [**ReactJS**](https://github.com/facebook/create-react-app)
-- [**PostCSS**](https://postcss.org/)
-- [**TailwindCSS**](https://tailwindcss.com/)
-- [**Vercel**](https://vercel.com/)
+A modern and responsive corporate website built using ReactJS and TailwindCSS, hosted on Vercel. The project leverages a rich collection of libraries to provide smooth animations, email functionality, and intuitive UI interactions.
 
-### Library
-- [**emailJS**](https://www.emailjs.com/) : Send email from javascript
-- [**headlessUI**](https://github.com/tailwindlabs/headlessui) : Transition Style
-- [**React Splide**](https://splidejs.com/integration-react-splide/) : Carousel / Slider
-- [**React Reveal**](https://www.react-reveal.com/) : Animation 
-- [**React Tabs**](https://www.npmjs.com/package/react-tabs) : Tab component
-- [**React Toastify**](https://www.npmjs.com/package/react-toastify) : Toast notification 
-- [**ESLint**](https://eslint.org/) : Linting and formatting
+---
 
+## 🚀 Tech Stack
 
-#### `npm start`
+- [**ReactJS**](https://github.com/facebook/create-react-app) – Core frontend library  
+- [**PostCSS**](https://postcss.org/) – CSS transformation tool  
+- [**TailwindCSS**](https://tailwindcss.com/) – Utility-first CSS framework  
+- [**Vercel**](https://vercel.com/) – Deployment and hosting  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📚 Libraries & Tools
 
-#### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-#### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [**emailJS**](https://www.emailjs.com/) – Send emails directly from the frontend  
+- [**headlessUI**](https://github.com/tailwindlabs/headlessui) – UI primitives for transitions and accessibility  
+- [**React Splide**](https://splidejs.com/integration-react-splide/) – Carousel/Slider component  
+- [**React Reveal**](https://www.react-reveal.com/) – Animation effects on scroll  
+- [**React Tabs**](https://www.npmjs.com/package/react-tabs) – Simple and customizable tab components  
+- [**React Toastify**](https://www.npmjs.com/package/react-toastify) – Elegant toast notifications  
+- [**ESLint**](https://eslint.org/) – Code linting and formatting  
